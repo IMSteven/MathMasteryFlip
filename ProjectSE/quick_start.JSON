@@ -1,0 +1,54 @@
+{
+  "button": {
+    "colours": {
+      "normal_bg": "#1a2e00",
+      "hovered_bg": "#1e4225",
+      "active_text": "#1e4225",
+      "active_bg": "White",
+      "normal_border": "White",
+      "hovered_border": "White",
+      "active_border": "#1a2e00"
+    },
+    "font": {
+      "name": "Gamer",
+      "size": 50
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "border_width": "2"
+    }
+  },
+  "label": {
+    "colours": {
+      "normal_text": "#ffffff",
+      "text_shadow": "#1a2e00"
+    },
+    "font": {
+      "name": "Gamer",
+      "size": 50
+    },
+    "misc": {
+      "text_shadow": "1",
+      "text_shadow_size": "2",
+      "text_shadow_offset": "0,1"
+    }
+  },
+  "#user-lbl": {
+    "font": {
+      "name": "Gamer",
+      "size": 70
+    }
+  },
+  "#mode-lbl": {
+    "font": {
+      "name": "Gamer",
+      "size": 70
+    }
+  },
+  "#score-lbl": {
+    "font": {
+      "name": "Gamer",
+      "size": 70
+    }
+  }
+}
